@@ -21,7 +21,7 @@ The Employee Data Dashboard includes:
 
 ![Employee Overview](assets/overview.jpg) 
 
-Key Metrics
+## Key Metrics
 - **Total Employees**: 6,660  
 - **Average Salary**: ₹89.69K  
 - **Total Salary**: ₹597.32M  
