@@ -42,5 +42,21 @@ The Employee Data Dashboard includes:
 3. **Department & Position Insights**
 4. **Working Hours Breakdown**
 
+---
+
+# 📊 Employee Data Report
+
+## Overview
+
+![Employee Overview](assets/overview.jpg)
+
+## Salary Analysis
+
+![Salary Analysis](assets/salary.jpg)
+
+## Department Breakdown
+
+![Departments](assets/departments.jpg)
+
 
 
