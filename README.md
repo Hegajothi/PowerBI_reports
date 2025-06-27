@@ -42,21 +42,5 @@ The Employee Data Dashboard includes:
 3. **Department & Position Insights**
 4. **Working Hours Breakdown**
 
----
-
-## 📁 Files
-
-- `EmployeeDataProject.pdf`: Screenshot/PDF version of the report
-- `README.md`: Documentation for GitHub
-- `.pbix` file (Power BI source file)
-
----
-
-## 🚀 Getting Started
-
-To view or modify the report:
-1. Clone the repo.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Explore or publish to Power BI Service.
 
 
