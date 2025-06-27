@@ -48,7 +48,9 @@ The Employee Data Dashboard includes:
 
 ## Overview
 
-![Employee Overview](assets/overview.jpg)
+![Employee Overview](![overview](https://github.com/user-attachments/assets/6bfee8fd-3688-47cb-8a73-2b1bc01a9f81)
+)
+
 
 ## Salary Analysis
 
